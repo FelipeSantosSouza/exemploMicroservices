@@ -1,0 +1,3 @@
+org\exemploMicroservices\model\carro.class
+org\exemploMicroservices\rest\carroEndpoint.class
+org\exemploMicroservices\rest\RestApplication.class
